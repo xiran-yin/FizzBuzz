@@ -1,5 +1,5 @@
 /**
- * Solve the FizzBuzz challenges.
+ * Solve the FizzBuzz challengess.
  */
 class FizzBuzz {
 
